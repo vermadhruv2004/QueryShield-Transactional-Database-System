@@ -39,6 +39,7 @@ QueryShield is an intelligent banking fraud detection system that:
 
 ## 📂 Project Structure
 
+```
 queryshield/
 │
 ├── database/
@@ -64,6 +65,7 @@ queryshield/
 ├── requirements.txt
 ├── README.md
 └── main.py
+```
 
 ---
 

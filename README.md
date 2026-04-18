@@ -63,8 +63,7 @@ queryshield/
 │ └── db_connection.py
 │
 ├── requirements.txt
-├── README.md
-└── main.py
+└── README.md
 ```
 
 ---

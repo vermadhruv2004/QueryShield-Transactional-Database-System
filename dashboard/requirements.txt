@@ -1,0 +1,6 @@
+streamlit  ---  Dashboard UI
+pymysql    ---  MySQL connection
+pandas     ---  Data handling
+matplotlib      ---   Charts
+scikit-learn    ---   ML model (Isolation Forest)
+joblib     ---        Save /load model

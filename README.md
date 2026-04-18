@@ -42,24 +42,24 @@ QueryShield is an intelligent banking fraud detection system that:
 queryshield/
 │
 ├── database/
-│   ├── schema.sql
-│   ├── triggers.sql
-│   └── procedures.sql
+│ ├── schema.sql
+│ ├── triggers.sql
+│ └── procedures.sql
 │
 ├── data/
-│   ├── sample_data.sql
-│   └── data_generator.py
+│ ├── sample_data.sql
+│ └── data_generator.py
 │
 ├── ml_model/
-│   ├── anomaly_detection.py
-│   └── train_model.py
+│ ├── anomaly_detection.py
+│ └── train_model.py
 │
 ├── dashboard/
-│   ├── app.py
-│   └── charts.py
+│ ├── app.py
+│ └── charts.py
 │
 ├── utils/
-│   └── db_connection.py
+│ └── db_connection.py
 │
 ├── requirements.txt
 └── README.md
